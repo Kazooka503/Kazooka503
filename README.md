@@ -1,4 +1,6 @@
-## Hey, I'm Austin 👋 :man_technologist:	
+## Hey, I'm Austin 👋 :man_technologist:
+
+![Header Image](http://www.austinkrzciok.com/img/headerimage.png)
 
 
 
