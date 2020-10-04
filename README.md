@@ -3,9 +3,11 @@
 ![Header Image](http://www.austinkrzciok.com/img/headerimage.png)
 
 I build software and web applications that solve problems!<br>
-Experienced in a variety of programming languages including C#, Python, SQL, HTML5, CSS3, and more!<br>
-Proficient with technologies like Django, .NET Framework, Visual Studio, and Azure DevOps.<br>
-Direct experience working remote in AGILE/SCRUM development environments. 
+I'm experienced in a variety of programming languages including C#, Python, SQL, HTML5, CSS3, and more!<br>
+Also proficient with technologies like Django, .NET Framework, Visual Studio, and Azure DevOps.<br>
+Armed with direct experience working remote in AGILE/SCRUM development environments.<br>
+<br>
+Currently networking, let's work on your project! For more information about me, check out www.austinkrzciok.com 
 
 
 
