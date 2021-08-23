@@ -1,6 +1,5 @@
 ## Hey, I'm Austin 👋 :man_technologist:
 
-![Header Image](http://www.austinkrzciok.com/img/headerimage.png)
 
 I build software and web applications that solve problems!<br>
 I'm experienced in a variety of programming languages including C#, Python, SQL, HTML5, CSS3, and more!<br>
